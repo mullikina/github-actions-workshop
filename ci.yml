@@ -1,4 +1,4 @@
-name: CI Test
+name: ci
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: CI Test
+    name: ci
     runs-on: ubuntu-22.04
 
     steps:
