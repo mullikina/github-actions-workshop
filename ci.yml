@@ -8,6 +8,6 @@ on:
 jobs:
   build:
     name: CI
-    uses: ./.github/workflows/ci.yml
+    uses: ./.github/workflow/ci.yml
     with:
       dotnet_version: 9.0.x
