@@ -17,6 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflow", "workflow", "{04
 	ProjectSection(SolutionItems) = preProject
 		ci.yml = ci.yml
 		.github\workflows\pr-verify.yml = .github\workflows\pr-verify.yml
+		reusable-build.yml = reusable-build.yml
 	EndProjectSection
 EndProject
 Global
